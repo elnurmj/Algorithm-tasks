@@ -1,0 +1,11 @@
+The weather is colder or hotter than 15°C
+
+ input t
+  t<15 
+    Print "The weather is cold"
+ else
+  t>15 
+    Print "The weather is hot"
+ else
+  t==15 
+    Print "The weather is equal to 15"

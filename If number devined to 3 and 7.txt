@@ -1,0 +1,9 @@
+Number devided to 3 and 7
+input n
+if n ==0
+ Print "Dont enter 0"
+if else n%3 && n%7
+ Print "Number is devided to 3 and 7"
+ else 
+  Print "Number is not devided to 3 and 7"
+ 

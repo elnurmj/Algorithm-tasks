@@ -1,0 +1,9 @@
+If n&m numbers is even, sum it up
+input n&&m &&sum
+if n||m==0 
+ Print "Dont enter 0"
+if else n%2 m%2==0
+ Print "Sum = n+m"
+else 
+ Print "Numbers is odd"
+
